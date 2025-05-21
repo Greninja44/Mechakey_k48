@@ -26,3 +26,8 @@
 | Matrix               | 4 rows × 12 columns                |
 | Wiring               | Matrix row/column wires to Pro Micro pins |
 | Optional             | WS2812 LEDs, rotary encoder, OLED |
+
+
+## PCB PREVIEW
+![Screenshot 2025-05-21 083002](https://github.com/user-attachments/assets/a7a170d3-847d-4b31-9cec-490473cdd7a8)
+

@@ -3,6 +3,7 @@ title: "Mechakey_k48"
 author: "greninja44"
 description: "A custom Mechanical Keyboard"
 created_at: "2025-05-21"
+**Total time spent: 6h**
 ---
 # May 21 Morning : Got the screen to work!
 
@@ -24,4 +25,4 @@ we will be designing case in the next session
 
 ## May 22 : Done with the 3d case
 i wanted a sleek design with miniilist options so i designed my own case for it( its in the repo)
-**Total time spent: 6h**
+

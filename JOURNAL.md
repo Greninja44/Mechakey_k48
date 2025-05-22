@@ -21,4 +21,7 @@ I want a modular just plain keyboard with no extra design( strictly no RGB)
 lesgoo pcb came out as i wanted it to bee
 
 we will be designing case in the next session
-**Total time spent: 5h**
+
+## May 22 : Done with the 3d case
+i wanted a sleek design with miniilist options so i designed my own case for it( its in the repo)
+**Total time spent: 6h**

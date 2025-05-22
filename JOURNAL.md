@@ -3,7 +3,7 @@ title: "Mechakey_k48"
 author: "greninja44"
 description: "A custom Mechanical Keyboard"
 created_at: "2025-05-21"
-**Total time spent: 6h**
+Total time spent: 6h
 ---
 # May 21 Morning : Got the screen to work!
 

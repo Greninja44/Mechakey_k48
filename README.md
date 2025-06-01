@@ -15,6 +15,9 @@
 
 
 
-## PCB PREVIEW
+## PREVIEW
 ![Screenshot 2025-05-21 083002](https://github.com/user-attachments/assets/a7a170d3-847d-4b31-9cec-490473cdd7a8)
+![image](https://github.com/user-attachments/assets/e5157437-f510-49e2-8c58-444d685c458a)
+![image](https://github.com/user-attachments/assets/689615ca-503f-4fb5-968a-d1576f0e6b8e)
+
 

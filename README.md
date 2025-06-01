@@ -1,10 +1,9 @@
 # MechaKey K48
 
-*MechaKey K48* is a custom 48-key ortholinear mechanical keyboard designed using the Arduino Pro Micro and powered by the open-source QMK Firmware. It’s a minimal yet powerful keyboard tailored for makers, coders, and keyboard enthusiasts who love flexibility and full programmability.
-
+*MechaKey K48* is a custom 48-key mechanical Keyboard based on arduino pro micro ( i used c type coz normal sucks) ,i will be using qmk firmware( An open source software) and i designed a custom case for it ( mostly gonna 3d print or make an arcylic case by myself), made for highway by greninja22
 ---
 
-## 🔧 Features
+## Features
 
 - 48-key ortholinear layout
 - Powered by Arduino Pro Micro (ATmega32u4)
@@ -14,18 +13,6 @@
 - Custom PCB
 - Custom Case
 
-
-
-## 🧰 Hardware Requirements
-
-| Component             | Specification                     |
-|----------------------|-----------------------------------|
-| Microcontroller      | Arduino Pro Micro (ATmega32u4)    |
-| Switches             | 48x MX-compatible switches         |
-| Diodes               | 1N4148 (1 per switch)              |
-| Matrix               | 4 rows × 12 columns                |
-| Wiring               | Matrix row/column wires to Pro Micro pins |
-| Optional             | WS2812 LEDs, rotary encoder, OLED |
 
 
 ## PCB PREVIEW

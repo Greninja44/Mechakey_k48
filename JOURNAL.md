@@ -26,3 +26,9 @@ we will be designing case in the next session
 ## May 22 : Done with the 3d case
 i wanted a sleek design with miniilist options so i designed my own case for it( its in the repo)
 
+## June 7, 2025
+
+Today I spent time researching different parts for the MechaKey K48 build to bring down the cost and make sure everything is easily available. I checked prices on Robu, AliExpress, and JLCPCB, and updated the BOM accordingly with better links and totals. Also made sure that the new parts I picked still work properly with the current PCB layout—didn’t want to take any chances there. Overall, just tried to make the build smoother and less headache when ordering
+maybe after building it will thunk whether to print the case or make my own using arcylic sheets
+
+
